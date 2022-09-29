@@ -6,4 +6,4 @@
 Python
 
 說明：
-使用 OpenCV 實現魚眼效果和圖像合成。
+使用 OpenCV 實現魚眼效果。
